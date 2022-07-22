@@ -1,4 +1,4 @@
-# patients-no-show
+# No-shows: Exploring the Characteristics of Patients Who Fail to Show up on Medical Appointments
 
 # About
 The objective of this project is to demonstrate my understanding of the Data Analysis Process. The main research question concerns the factors that explain patient no-shows. No-show efers to patients who fail to show up to scheduled appointments or cancel at the last minute giving the health center no opportunity to fill the appointment slot. This problem of no-shows poses considerable challenges to the effectiveness and quality of healthcare delivery.
